@@ -1,0 +1,14 @@
+body{
+    background-image: url(images/kosmos-galaktika-vselennaya.jpg);
+    background-position: center center;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.navbar-inverse .navbar-band{
+    color: yellow;
+}
+.main {
+    height: 400px;
+}
